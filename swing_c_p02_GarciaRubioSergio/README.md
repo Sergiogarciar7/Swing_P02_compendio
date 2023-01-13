@@ -25,8 +25,6 @@ README.md
 Ir a la carpeta ejecutable.
 Hacer doble click en el ejetable llamado swing_c_p02_GarciaRubioSergio
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
 ## Construido con ⚙️
 
 Eclipse
@@ -37,7 +35,7 @@ Eclipse IDE for Java Developers - 2022-09
 
 ## Autores 🛠️
 
-Sergio García Rubio
+Sergio García Rubio 2ºDAM
 
 ## Licencia 📄
 
